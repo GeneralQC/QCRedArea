@@ -1,0 +1,5 @@
+{
+  "name": "Lab Access Cloud Monitor",
+  "description": "Laboratory entry management system with Google Sheets and Drive integration for signatures and logs.",
+  "requestFramePermissions": []
+}

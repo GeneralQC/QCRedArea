@@ -1,0 +1,51 @@
+
+{
+  "BKF": {
+    "name": "phirawat",
+    "email": "phirawat.api@cpf.co.th"
+  },
+  "BPF": {
+    "name": "",
+    "email": ""
+  },
+  "KBF": {
+    "name": "",
+    "email": ""
+  },
+  "KKF": {
+    "name": "",
+    "email": ""
+  },
+  "KRF": {
+    "name": "",
+    "email": ""
+  },
+  "LPF": {
+    "name": "",
+    "email": ""
+  },
+  "PLF": {
+    "name": "",
+    "email": ""
+  },
+  "PTF": {
+    "name": "",
+    "email": ""
+  },
+  "RBF": {
+    "name": "",
+    "email": ""
+  },
+  "SKF": {
+    "name": "",
+    "email": ""
+  },
+  "SRF": {
+    "name": "",
+    "email": ""
+  },
+  "TRF": {
+    "name": "",
+    "email": ""
+  }
+}
